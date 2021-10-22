@@ -1,0 +1,24 @@
+.Navbar
+{
+background-color:goldenrod;
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-left: 10px;
+margin-right: 10px;
+color: white;
+margin-top: 10px;
+border-radius: 8px;
+
+}
+ 
+a
+{padding-left: 60px;
+font-size: large;
+text-decoration: none;
+color: white;
+font-weight: 1000;
+
+
+
+}
